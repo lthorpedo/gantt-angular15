@@ -48,5 +48,6 @@
   },
   "eslintIgnore": [
     "dist"
-  ]
+  ],
+  "types": "index.d.ts"
 }
